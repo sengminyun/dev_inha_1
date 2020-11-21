@@ -1,0 +1,70 @@
+
+ /* PC/모바일 해상도 반응 jquery.axZm.embedResponsive.js 필요 */
+
+	.Response_Media_Query { position: relative; }  
+
+	@media (min-width: 100px) { 
+		.Response_Media_Query {
+			height: 560px;
+		}
+	}
+
+	@media (min-width: 380px) {
+		.Response_Media_Query {
+			height: 600px;
+		}
+	}
+
+	@media (min-width: 480px) {
+		.Response_Media_Query {
+			height: 700px;
+		}
+	}
+
+	@media (min-width: 768px)  {
+		.Response_Media_Query {
+			height: 800px;
+		}
+	}
+
+    @media (min-width: 900px)  {
+		.Response_Media_Query {
+			height: 820px;
+		}
+	}
+
+    @media (min-width: 1024px) {
+		.Response_Media_Query {
+			height: 860px;
+		}
+	}
+
+	@media (min-width: 1280px) {
+		.Response_Media_Query {
+			height: 900px;
+		}
+	}
+
+	@media (min-width: 1680px)  {
+		.Response_Media_Query {
+			height: 1000px;
+		}
+	}
+
+	@media (min-width: 1920px)  {
+		.Response_Media_Query {
+			height: 1100px;
+		}
+	}
+
+	@media (min-width: 2560px)  {
+		.Response_Media_Query {
+			height: 1200px;
+		}
+	}
+
+	@media (min-width: 3840px)  {
+		.Response_Media_Query {
+			height: 1300px;
+		}
+	}
